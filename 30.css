@@ -13,3 +13,6 @@ p {
   font-weight: 400;
   padding: 5rem;
 }
+iframe {
+  padding: 1rem 5rem;
+}
